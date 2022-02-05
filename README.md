@@ -20,3 +20,10 @@ The code comes from a bootcamp project and is used to test refactoring knowledge
 The repository is maintained by Robert Prusinowski
 
 <a href="mailto:robertp@theemail.com">Email: Robert Prusinowski</a>
+
+## Example
+
+<p align="center">
+<img src="./assets/images/Screenshot.PNG"/>
+  <p>
+
