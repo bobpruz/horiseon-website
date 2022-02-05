@@ -23,7 +23,5 @@ The repository is maintained by Robert Prusinowski
 
 ## Example
 
-<p align="center">
-<img src=".Develop/assets/images/Screenshot.PNG"/>
-  <p>
+![Screenshot](Screenshot.PNG)
 
