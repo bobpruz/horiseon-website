@@ -24,6 +24,6 @@ The repository is maintained by Robert Prusinowski
 ## Example
 
 <p align="center">
-<img src="./assets/images/Screenshot.PNG"/>
+<img src=".Develop/assets/images/Screenshot.PNG"/>
   <p>
 
