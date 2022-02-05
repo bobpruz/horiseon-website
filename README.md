@@ -19,4 +19,4 @@ The code comes from a bootcamp project and is used to test refactoring knowledge
 
 The repository is maintained by Robert Prusinowski
 
-<a herf="mailto:robertp@theemail.com">Email: Robert Prusinowski</a>
+<a href="mailto:robertp@theemail.com">Email: Robert Prusinowski</a>
